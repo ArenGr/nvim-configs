@@ -12,7 +12,7 @@ return {
 
     telescope.setup({
       defaults = {
-        path_display = { "truncate " },
+        path_display = { "shorten" },
         sorting_strategy = "ascending",
         layout_config = {
             horizontal = {
